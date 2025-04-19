@@ -21,7 +21,7 @@
 
     @Override
      public String toString() {
-        return "Bitcoin Transaction ID: " + transactionId + " on " + transactionDate.toString();
+        return "Bitcoin Transaction ID =" + transactionId + " done on " + transactionDate.toString();
     }
     }
 
